@@ -42,10 +42,8 @@ Anil Sathyan
 
 Free to use, share or modify!! ... Copyleft!!
 
-chmod -R 777 /                 ...  ???????
-
 ## Acknowledgments
-* "http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html"
-* "http://www.freeos.com/guides/lsst/"
+* "http://www.jetsonhacks.com/nvidia-jetson-tx2-j21-header-pinout/"
+* "https://www.youtube.com/watch?v=D7lkth34rgM"
 * "https://www.shellscript.sh/"
 * "GEC Thrissur, Recursive Labs Thrissur & Friends"
