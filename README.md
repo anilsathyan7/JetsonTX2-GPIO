@@ -8,7 +8,8 @@ Recommended basic knowledge of Embedded Systems and Linux.
 ## Prerequisites
 
 Nvidia Jetson TX2 flashed with Jetpack and host PC with Ubuntu 16.04.
-LED's (R,G,B,O colours), suitable resistors, jumper wires, hook up wires, breadboard etc.
+
+LED's (R,G,B,O colours), suitable resistors, jumper wires, hook up wires, tactile switch ,breadboard etc.
 
 ### Installing
 
@@ -16,12 +17,15 @@ See: https://developer.nvidia.com/embedded/jetpack for installation of Jetpack.
 
 ### Running the tests
 
+First, connect the LED's to GPIO pins as shown in video (3.3 V) through resistors.
+Ensure proper 'ground' (GND) connections.
+
 In terminal:-
 
-Login as root and execute the shell scripts after ensuring the connections on the board.
+Login as root and execute the shell scripts after ensuring the appropriate connections.
 
 Examples:-
-$ ./ledblink.sh
+$ ./ledblink.sh or bash ledblink.sh
 
 
 ## Versioning
