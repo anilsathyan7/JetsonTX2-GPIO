@@ -8,6 +8,7 @@ Recommended basic knowledge of Embedded Systems and Linux.
 ## Prerequisites
 
 Nvidia Jetson TX2 flashed with Jetpack and host PC with Ubuntu 16.04.
+( JetPack 3.1 with L4T R28.1 used for this setup & experiment. )
 
 LED's (R,G,B,O colours), suitable resistors, jumper wires, hook up wires, tactile switch ,breadboard etc.
 
